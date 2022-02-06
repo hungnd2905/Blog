@@ -1,4 +1,4 @@
-# Blog
+# Blog (without Database)
 Personal Blog Web application using Javascript, EJS, Express, Node.js, HTML, CSS
 
 WebLink: https://pure-shelf-40097.herokuapp.com/
